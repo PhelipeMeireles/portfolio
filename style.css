@@ -1,0 +1,152 @@
+body{
+    text-align: center;
+    background-color: rgb(20, 16, 16);
+    color: whitesmoke;
+}
+
+img{
+    width: 160px;
+    height: 160x;
+    border-radius: 50%;
+    border-color: aquamarine;
+    line-height: 5%;
+}
+
+.posicionar img{
+    width: 40px;
+    height: 40px;
+}
+
+.posicionar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border-color: aquamarine;
+    line-height: 5%;
+    position: relative;
+    height: 150px;
+    margin: auto;
+  }
+
+.ultimo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
+.ultimo img {
+    width: 30px;
+    height: 30px;
+    margin: 10px;
+  } 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
